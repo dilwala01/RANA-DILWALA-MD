@@ -1,9 +1,9 @@
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>SILENTLOVER432</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>RANA-DILWALA</div>
 
 <br>
 
 
-# SILENT-SOBX-MD
+# RANA-DILWALA-MD
 🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY SILENTLOVER 432`** 🔰
 
 <br>
