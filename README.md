@@ -1,4 +1,4 @@
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>RANA-DILWALA</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/CHAND-DILWALA-MD/count.svg" /><br>RANA-DILWALA</div>
 
 <br>
 
@@ -17,7 +17,7 @@
 <br>
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=RANA%20DILWALA&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20RANA%20DILWALA%20432%20KING%20OF%20KINGS%20OWNER%20RANA%20DILWALA%20AND%20CHAND%20MD♥️&image=https://telegra.ph/file/e47b23583ab7ec42d58df.jpg?v=4&backgroundColor=%23ecf0f1&github=CHANDDILWALA&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=RANA%20DILWALA&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20RANA%20DILWALA%20432%20KING%20OF%20KINGS%20OWNER%20RANA%20DILWALA%20AND%20CHAND%20MD♥️&image=https://i.imghippo.com/files/16v2u1728541506.jpg?v=4&backgroundColor=%23ecf0f1&github=CHANDDILWALA&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
