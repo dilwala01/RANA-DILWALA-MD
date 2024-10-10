@@ -80,7 +80,7 @@ src="https://cardivo.vercel.app/api?name=RANA%20DILWALA&description=🥂THE%20WO
 # 🔰 ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴀɴᴅ sᴇssɪᴏɴ's ᴍᴇᴛʜᴏᴅs 🔰
 <br>
 
-`✠ IF YOU DON'T HAVE YOUR PRIVATE MONGODB KEY SO YOU CAN USE THIS PUBLIC KEY FOR DEPLOY SILENT-SOBX-MD BOT ✠`
+`✠ IF YOU DON'T HAVE YOUR PRIVATE MONGODB KEY SO YOU CAN USE THIS PUBLIC KEY FOR DEPLOY CHAND-DILWALA-MD BOT`
 
 ```
 mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=majority
